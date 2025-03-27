@@ -1,4 +1,4 @@
-# 🍏 Apple Stock Prediction (Educational Use)
+# Apple Stock Prediction (Educational Use)
 
 This repository contains a simple and educational project focused on analyzing and forecasting the stock prices of **Apple Inc. (AAPL)** using publicly available historical data from **Yahoo Finance** via the `yfinance` Python library.
 
