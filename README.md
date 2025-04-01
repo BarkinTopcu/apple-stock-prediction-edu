@@ -21,9 +21,9 @@ The purpose of this project is to demonstrate time series analysis techniques us
 ## ⚠️ Disclaimer
 
 > This project is created **for educational and research purposes only**.  
-> It does **not** constitute investment advice or financial recommendations.  
+> It does **not** constitute investment advice, financial recommendations, or a solicitation to buy or sell any securities.
 > All data is sourced from [Yahoo Finance](https://finance.yahoo.com/) using the `yfinance` Python package.  
-> This project is **not affiliated with, endorsed by, or officially connected to Apple Inc.** in any way.
+> This project is **not affiliated with, endorsed by, officially connected to Apple Inc.** or Yahoo Finance in any way. in any way.
 
 ---
 
